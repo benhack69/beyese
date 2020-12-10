@@ -45,6 +45,9 @@ body{
 .contenido h2{
     font-size: 90px;
 }
+.contenido img{
+    width: 569px;
+}
 #cerrar{
     display: none;
 }
@@ -205,15 +208,22 @@ menu{
 }
 
 .container-cover-info p{
-    color: blue;
-    font-size: 20px;
-    font-weight: 300;
+    padding: 10px; 
+    margin: 10px auto; 
+    width: 20px;
+    height: 10px;
 }
 
 /*IMAGENES*/
-.fotos {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+.insurence-right img, .insurence-left img {
+    padding: 10px; 
+    margin: 10px; 
+    
+    float: left; 
+    width: 333px;
+}
+/*TEXTO*/
+h1{
+    font-size: 40px;
+    
 }
