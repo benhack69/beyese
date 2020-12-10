@@ -8,7 +8,7 @@
 }
 
 body{
-    background: white;    
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);  
 }
 /*MODAL*/
 .modal{
@@ -223,7 +223,7 @@ menu{
     width: 333px;
 }
 /*TEXTO*/
-h1{
+h1 .texto{
     font-size: 40px;
     
 }
